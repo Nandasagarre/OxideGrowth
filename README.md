@@ -1,4 +1,4 @@
-Modeling SiO₂ growth on Si using the Deal–Grove equations, This notebook explores oxide thickness evolves with time under different process parameters.
+Modeling Oxide growth on Si using the Deal–Grove equations, This notebook explores oxide thickness evolves with time under different process parameters.
 Process Parameters:
 Temperature T; 
 Native oxide thickness di; 
